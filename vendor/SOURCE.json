@@ -1,0 +1,29 @@
+{
+  "repository": "https://github.com/fcitx/fcitx5-gtk",
+  "tag": "5.1.7",
+  "commit": "3b18d2ab7401d4233daf38bbc5896f1703685a43",
+  "license": "LGPL-2.1-or-later",
+  "selection": "Only source and headers needed to build the GTK3 module and GClient.",
+  "files": [
+    "fcitx-gclient/fcitxgclient.c",
+    "fcitx-gclient/fcitxgclient.h",
+    "fcitx-gclient/fcitxgwatcher.c",
+    "fcitx-gclient/fcitxgwatcher.h",
+    "gtk-common/marshall.list",
+    "gtk2/fcitxflags.h",
+    "gtk2/fcitxim.c",
+    "LICENSES/LGPL-2.1-or-later.txt",
+    "gtk3/fcitxflags.h",
+    "gtk3/fcitxim.c",
+    "gtk3/fcitximcontext.cpp",
+    "gtk3/fcitximcontext.h",
+    "gtk3/fcitxtheme.cpp",
+    "gtk3/fcitxtheme.h",
+    "gtk3/gtk3inputwindow.cpp",
+    "gtk3/gtk3inputwindow.h",
+    "gtk3/inputwindow.cpp",
+    "gtk3/inputwindow.h",
+    "gtk3/utils.cpp",
+    "gtk3/utils.h"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "LICENSES/LGPL-2.1-or-later.txt": "1ccf09bf2f598308df4bed9cd8e9657dc5cd0973d2800318f2e241486e2edf3f",
+  "fcitx-gclient/fcitxgclient.c": "f56801ef951b007c674828fb0cfc73e7f82c8dec7a2db2ee5909e9199049bd96",
+  "fcitx-gclient/fcitxgclient.h": "3c888b35a7d0bcaa5cb49f2c82ebb05afbfee325b3b106ffbec20f4671329a81",
+  "fcitx-gclient/fcitxgwatcher.c": "bf4b607ef75af21e3bef0a19500b879917490c12b00dec8fa05d1b3e4cc95c2a",
+  "fcitx-gclient/fcitxgwatcher.h": "df3da1c7badb56aa7373ffa6cf23c5866048982e3ea394f9ee3d661471ba5a8d",
+  "gtk-common/marshall.list": "b2a0b4f01cc09406d2fddfce0234120afd42d003d0fb68ef3d6f7896adaf33c8",
+  "gtk2/fcitxflags.h": "2802024d2adf38e97395b8dc43b94e00c827f8e8109fdd0edaaed76b53c69cf6",
+  "gtk2/fcitxim.c": "88a686495fa8182fac42f3d375f74f8c35f1800d3e99b8b2d3039c3aa316fb0d",
+  "gtk3/fcitxflags.h": "2802024d2adf38e97395b8dc43b94e00c827f8e8109fdd0edaaed76b53c69cf6",
+  "gtk3/fcitxim.c": "88a686495fa8182fac42f3d375f74f8c35f1800d3e99b8b2d3039c3aa316fb0d",
+  "gtk3/fcitximcontext.cpp": "7b91d66fa5ea95dcb9d57c014045c1c1950c86bda3cfccec96afcd02be3fc340",
+  "gtk3/fcitximcontext.h": "bef68a7c314108063100ec70035f7090c3ffbd6905c2a10f8aeb20a7762afe9f",
+  "gtk3/fcitxtheme.cpp": "5b6d9cc0d10a4272e4baeb0e6b8998c3a106a95d7dce8c37be59f93c0ad545c0",
+  "gtk3/fcitxtheme.h": "c2d63fdfebd0265c19b36a4cd2ac9b97112ab744a970385b8bf412c3d787c944",
+  "gtk3/gtk3inputwindow.cpp": "4c45a68d86186e2f8cb46d1f327775268b1b5afd347c108863117f060a098b44",
+  "gtk3/gtk3inputwindow.h": "42c9933ab95862414580f634a20b99b4b31b20177ca8539cb26361c231abc2a4",
+  "gtk3/inputwindow.cpp": "dd30da53ea1ca11c784472fe5aa464b42f219dbff7280903cb0c5ee19c9f5fa0",
+  "gtk3/inputwindow.h": "5d64d145542aa955dff1f89e6532a937363d6d2b3f70aa55e2a4f58d450623d0",
+  "gtk3/utils.cpp": "4653394a60a12992d4e73e9bfe5c4fdc5fc31bafa6e39f606addd2491df7a609",
+  "gtk3/utils.h": "be503e5d2ad0a6814e917b11bd9bd399b7c741f88b0664c5786cff844bf49040"
+}

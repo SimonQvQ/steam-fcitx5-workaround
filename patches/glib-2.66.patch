@@ -1,0 +1,14 @@
+--- a/gtk2/fcitxim.c
++++ b/gtk2/fcitxim.c
+@@ -23,3 +23,3 @@
+ g_module_check_init(G_GNUC_UNUSED GModule *module) {
+-    return glib_check_version(GLIB_MAJOR_VERSION, GLIB_MINOR_VERSION, 0);
++    return glib_check_version(2, 66, 0);
+ }
+--- a/gtk3/fcitximcontext.cpp
++++ b/gtk3/fcitximcontext.cpp
+@@ -1414,3 +1414,3 @@
+             else if (c == '2') {
+-#if GLIB_CHECK_VERSION(2, 68, 0)
++#if GLIB_VERSION_MIN_REQUIRED >= GLIB_VERSION_2_68
+                 event->string = (gchar *)g_memdup2("\0\0", 2);
